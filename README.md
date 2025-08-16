@@ -23,5 +23,5 @@ A simple on-chain grade management system built with Sui Move. This project allo
 | D      | 60–69     |
 | F      | Below 60  |
 
-#Move Registry Link
+# Move Registry Link
 https://www.moveregistry.com/package/@pkg/studentgradebook
